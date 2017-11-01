@@ -1,5 +1,5 @@
 # Avalon
----
+===
 Welcome to project **Avalon**, a logistics AI training simulation.
 
 This project plans to allow an AI to balance logistical requirements of a *perfect* city. Such a city would have an ever changing equipment of resources as well as an ever changing production of resources corresponding to its population. As in real life, unexpected events can occur causing a city to produce less resources than is required. It is the governing AI's responsibility to manage which other cities must overproduce for the city in distress balance various factors (distance, travel cost, etc.) to ensure the optimal choice is taken. 
