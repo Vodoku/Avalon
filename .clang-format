@@ -1,0 +1,7 @@
+---
+Language: cpp
+BasedOnStyle: LLVM
+AlwaysBreakTemplateDeclarations: 'true'
+BreakBeforeBraces: Stroustrup
+
+...
